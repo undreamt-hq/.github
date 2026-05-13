@@ -1,6 +1,6 @@
-# Undreamt
-
 <div align="center">
+
+<img width="384" height="384" alt="Undreamt" src="https://github.com/user-attachments/assets/5ced585f-d8d1-4dff-ad96-a2143f5c542d" />
 
 # Undreamt
 
@@ -52,7 +52,7 @@ We are interested in building across domains such as:
 
 ## Projects
 
-### Orbit
+### [Orbit](https://github.com/orbit-projects)
 
 A modular Python tooling and framework ecosystem focused on:
 
@@ -90,14 +90,6 @@ We care deeply about:
 - Learnable codebases
 - Real-world implementation
 - Open collaboration
-
----
-
-<div align="center">
-
-### Create beyond imagination.
-
-</div>
 
 ---
 
