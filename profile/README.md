@@ -1,44 +1,52 @@
 # Undreamt
 
-> Building what we once wished existed.
+<div align="center">
 
-Undreamt is an open-source community focused on creating tools, systems, ideas, and technology for developers, researchers, creators, and businesses.
+# Undreamt
 
-The name comes from a simple idea:
+### Building what has never been dreamt.
 
-> Build the things we never even thought possible before.
+Open-source community focused on creating tools, systems, infrastructure, and ideas for developers, researchers, creators, and businesses.
+
+</div>
 
 ---
 
-## Vision
+## About
 
-Undreamt exists for people who love creating, experimenting, and engineering ambitious ideas into reality.
+Undreamt is an open-source community built around experimentation, engineering, and ambitious ideas.
+
+We create projects that explore modern tooling, infrastructure, frameworks, developer experience, and experimental systems — driven by curiosity and long-term learning.
+
+---
+
+## Philosophy
 
 We believe open source should be:
 
-* Collaborative
-* Experimental
-* Learnable
-* Developer-first
-* Driven by curiosity
+- Modular
+- Learnable
+- Experimental
+- Developer-first
+- Built in public
+
+Undreamt is not centered around a single technology or domain.
+
+Instead, it exists as a space for creating meaningful systems across multiple areas of software and research.
 
 ---
 
-## What We Do
+## Areas of Interest
 
-Undreamt is not limited to a single domain.
+We are interested in building across domains such as:
 
-The community aims to work across multiple areas including:
-
-* Developer tooling
-* Frameworks
-* Infrastructure
-* Research projects
-* Experimental systems
-* Automation tools
-* Open-source ecosystems
-
-Every project under Undreamt is built around exploration, modularity, and long-term learning.
+- Developer tooling
+- Framework architecture
+- Infrastructure systems
+- Research projects
+- Automation tooling
+- Experimental platforms
+- Open-source ecosystems
 
 ---
 
@@ -46,24 +54,13 @@ Every project under Undreamt is built around exploration, modularity, and long-t
 
 ### Orbit
 
-Orbit is one of the projects being developed under Undreamt.
+A modular Python tooling and framework ecosystem focused on:
 
-It focuses on modular Python tooling, framework architecture, developer experience, and modern infrastructure experimentation.
-
----
-
-## Philosophy
-
-We care deeply about:
-
-* Clean architecture
-* Building in public
-* Open experimentation
-* Sustainable engineering
-* Learnable codebases
-* Turning ideas into real systems
-
-Undreamt is as much about learning and exploration as it is about shipping software.
+- Clean architecture
+- Type safety
+- Developer experience
+- Static generation
+- Experimental infrastructure
 
 ---
 
@@ -71,14 +68,36 @@ Undreamt is as much about learning and exploration as it is about shipping softw
 
 Undreamt welcomes:
 
-* Developers
-* Researchers
-* Students
-* Designers
-* Open-source contributors
-* Curious builders
+- Developers
+- Researchers
+- Students
+- Designers
+- Builders
+- Open-source contributors
 
-You do not need to be an expert to contribute.
+You do not need to be an expert to contribute, experiment, or share ideas.
+
+---
+
+## Vision
+
+Undreamt is being built as a long-term ecosystem for creating ambitious open-source projects without losing the joy of experimentation and learning.
+
+We care deeply about:
+
+- Clean systems
+- Sustainable engineering
+- Learnable codebases
+- Real-world implementation
+- Open collaboration
+
+---
+
+<div align="center">
+
+### Create beyond imagination.
+
+</div>
 
 ---
 
