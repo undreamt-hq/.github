@@ -71,7 +71,7 @@ A modular Python tooling and framework ecosystem focused on:
 
 ---
 
-## Gabby
+### [Gabby](https://github.com/undreamt-hq/gabby)
 
 Adaptive intelligence infrastructure focused on:
 
