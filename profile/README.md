@@ -71,6 +71,19 @@ A modular Python tooling and framework ecosystem focused on:
 
 ---
 
+## Gabby
+
+Adaptive intelligence infrastructure focused on:
+
+- specialized AI systems
+- modular agents
+- memory architectures
+- intelligent orchestration
+- multimodal workflows
+- adaptive execution systems
+
+---
+
 ## Community
 
 Undreamt welcomes:
