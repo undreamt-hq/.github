@@ -11,7 +11,7 @@
 
 # Undreamt
 
-### Building what has never been dreamt.
+### Building what has never been dreamt
 
 Open-source community focused on creating tools, systems, infrastructure, and ideas for developers, researchers, creators, and businesses.
 
