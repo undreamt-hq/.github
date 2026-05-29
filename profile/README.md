@@ -9,82 +9,81 @@
 <img width="384" height="384" alt="Undreamt" src="https://github.com/user-attachments/assets/f1eaf8c6-e248-4fb3-bd36-5e97031b80e0" />
 
 
-# Undreamt
+Undreamt
 
-### Building what has never been dreamt
+Building what has not yet been built.
 
-Open-source community focused on creating tools, systems, infrastructure, and ideas for developers, researchers, creators, and businesses.
+Open-source community focused on creating frameworks, infrastructure, developer tooling, and experimental systems.
+
 
 </div>
 
 ---
 
-## About
+About
 
-Undreamt is an open-source community built around experimentation, engineering, and ambitious ideas.
+Undreamt is an open-source engineering community built around experimentation, learning, and long-term software development.
 
-We create projects that explore modern tooling, infrastructure, frameworks, developer experience, and experimental systems — driven by curiosity and long-term learning.
+We create projects that explore modern architecture, developer experience, infrastructure, automation, and emerging technologies.
+
+Rather than being limited to a single domain, Undreamt serves as a space for building meaningful systems, sharing ideas, and learning in public.
 
 ---
 
-## Philosophy
+Philosophy
 
 We believe open source should be:
 
 - Modular
 - Learnable
-- Experimental
 - Developer-first
+- Sustainable
 - Built in public
+- Open to experimentation
 
-Undreamt is not centered around a single technology or domain.
-
-Instead, it exists as a space for creating meaningful systems across multiple areas of software and research.
+We value clean architecture, maintainable systems, thoughtful engineering, and continuous learning.
 
 ---
 
-## Areas of Interest
+Areas of Interest
 
 We are interested in building across domains such as:
 
 - Developer tooling
 - Framework architecture
 - Infrastructure systems
-- Research projects
+- Enterprise software
 - Automation tooling
+- Cloud-native technologies
+- Research projects
 - Experimental platforms
 - Open-source ecosystems
 
+The technologies may change, but the focus remains the same: building useful systems and sharing what we learn.
+
 ---
 
-## Projects
+Projects
 
-### [Orbit](https://github.com/orbit-projects)
+Orbit
 
-A modular Python tooling and framework ecosystem focused on:
+A modular Python ecosystem focused on building enterprise-grade applications and services.
+
+Areas of focus include:
 
 - Clean architecture
+- Dependency injection
 - Type safety
 - Developer experience
-- Static generation
-- Experimental infrastructure
+- Scalable application design
+- Extensible tooling
+- Modern Python engineering practices
+
+Orbit aims to provide a cohesive foundation for building maintainable software systems.
 
 ---
 
-### [Gabby](https://github.com/undreamt-hq/gabby)
-
-Adaptive intelligence infrastructure focused on:
-
-- specialized AI systems
-- modular agents
-- memory architectures
-- intelligent orchestration
-- multimodal workflows
-- adaptive execution systems
-
----
-
-## Community
+Community
 
 Undreamt welcomes:
 
@@ -95,13 +94,13 @@ Undreamt welcomes:
 - Builders
 - Open-source contributors
 
-You do not need to be an expert to contribute, experiment, or share ideas.
+You do not need to be an expert to contribute, experiment, learn, or share ideas.
 
 ---
 
-## Vision
+Vision
 
-Undreamt is being built as a long-term ecosystem for creating ambitious open-source projects without losing the joy of experimentation and learning.
+Undreamt is being built as a long-term ecosystem for creating ambitious open-source projects while preserving the joy of experimentation and discovery.
 
 We care deeply about:
 
@@ -109,12 +108,17 @@ We care deeply about:
 - Sustainable engineering
 - Learnable codebases
 - Real-world implementation
+- Thoughtful architecture
 - Open collaboration
+
+Our goal is to create software that is useful, educational, and built to last.
 
 ---
 
-## Status
+Status
 
 Undreamt is currently in its early stages and actively evolving.
 
-Most projects are experimental and under active development.
+Most projects are experimental and under active development. APIs, designs, and ideas may change as the ecosystem grows.
+
+We build in public and learn along the way.
