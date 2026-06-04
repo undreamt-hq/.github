@@ -54,18 +54,6 @@ We value:
 
 A modular Python ecosystem focused on application architecture, developer tooling, dependency injection, type safety, and scalable software design.
 
-### [Gabby](https://github.com/undreamt-hq/gabby)
-
-Adaptive intelligence infrastructure for building AI systems, agents, memory architectures, orchestration pipelines, and evolving workflows.
-
-### [Learn Undreamt](https://github.com/learn-undreamt)
-
-An educational initiative focused on teaching software engineering, architecture, programming, open source, and modern development practices through structured learning resources.
-
-### [Point](https://github.com/undreamt-hq/point)
-
-Educational authoring language and documentation toolkit for building lessons, courses, learning paths, glossaries, knowledge graphs, and educational websites.
-
 ---
 
 ## Areas of Interest
