@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="384" height="384" alt="Undreamt" src="https://github.com/user-attachments/assets/f41c04d7-4bcb-41a8-98c5-532bb0ca2685" />
+<img width="512" height="512" alt="undreamt logo" src="https://github.com/user-attachments/assets/fbb56e78-7618-4f76-b438-ab35065b5304" />
 
 # Undreamt
 
